@@ -44,13 +44,13 @@
    stream_brochure("CompanyName", "https://company-website.com")
 
 ## 🔧 How It Works
-Scrapes the company homepage
+✔ **Scrapes the company homepage**
 
-Identifies key pages (About, Careers, etc.) using AI
+✔ **Identifies key pages (About, Careers, etc.) using AI**
 
-Extracts and analyzes content from each page
+✔ **Extracts and analyzes content from each page**
 
-Generates brochure with consistent branding/structure
+✔ **Generates brochure with consistent branding/structure**
 
 ## 📄 Sample Output
 
