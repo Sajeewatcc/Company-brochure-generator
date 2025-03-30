@@ -36,11 +36,11 @@
    pip install requests beautifulsoup4 openai python-dotenv
 
 ## Add your OpenAI API key to .env:
-
+```bash
 OPENAI_API_KEY=your_key_here
 
 ## Run the generator:
-
+```bash
 stream_brochure("CompanyName", "https://company-website.com")
 
 ## 🔧 How It Works
