@@ -1,31 +1,31 @@
-AI-Powered Company Brochure Generator
-📄 Automatically generate professional brochures for businesses using their website data. This tool scrapes a company’s web pages (About, Careers, Blog, etc.), analyzes the content with GPT-4, and produces a well-structured markdown brochure for clients, investors, or recruits.
+# 🚀 AI-Powered Company Brochure Generator
 
-✨ Features:
+![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT_4-purple.svg)
+![BeautifulSoup](https://img.shields.io/badge/Scraping-BeautifulSoup-green.svg)
 
-Web scraping with BeautifulSoup
+📄 **Automatically generate professional brochures** for businesses using their website data. This tool scrapes key pages (About, Careers, Blog, etc.), analyzes content with **GPT-4**, and produces polished markdown brochures for clients, investors, or recruits.
 
-Relevant link detection via AI
+---
 
-Markdown brochure generation with OpenAI 
+## ✨ Key Features
 
-Streaming output for real-time preview
+| Feature | Description |
+|---------|-------------|
+| **Web Scraping** | Extracts text/data from company websites using BeautifulSoup |
+| **AI Link Detection** | Identifies relevant pages (About, Careers, etc.) with GPT-4 |
+| **Dynamic Brochure Generation** | Creates structured markdown output with customizable sections |
+| **Real-Time Streaming** | Preview generated content as it streams from OpenAI |
+| **Tone Customization** | Switch between professional, humorous, or marketing styles |
 
-Customizable tone (professional, humorous, etc.)
+---
 
-🚀 Use Cases:
-✔ Marketing materials
-✔ Investor pitches
-✔ Recruitment pages
-✔ Competitive analysis
+## 🚀 Use Cases
 
-Built with Python, OpenAI API, and Jupyter notebooks. Perfect for business automation, marketing teams, or AI prototyping!
+✔ **Marketing Teams** – Create client-facing materials in minutes  
+✔ **Investor Relations** – Generate data-driven pitch decks  
+✔ **HR/Recruiting** – Auto-generate career pages from company sites  
+✔ **Competitive Analysis** – Quickly profile competitor offerings  
 
-Why This Stands Out:
-Saves hours of manual brochure creation
+---
 
-Adaptable to any company website
-
-Agentic AI design (multi-step AI workflow)
-
-🔗 Try it with any company URL—just add the name and website!
