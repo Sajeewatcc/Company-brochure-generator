@@ -7,7 +7,7 @@ Web scraping with BeautifulSoup
 
 Relevant link detection via AI
 
-Markdown brochure generation with OpenAI
+Markdown brochure generation with OpenAI 
 
 Streaming output for real-time preview
 
